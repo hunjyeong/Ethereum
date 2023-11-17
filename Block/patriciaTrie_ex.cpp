@@ -85,11 +85,8 @@ struct TRIE
                 Str[Idx] = C;
                 N->IsSorting(N->Node[i], Str, Idx + 1);
             } 
-
         }
-        
     }
-
 };
 
  
